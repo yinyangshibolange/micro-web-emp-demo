@@ -1,0 +1,24 @@
+{
+  "name": "micro-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14",
+    "pnpm": ">=7"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.7.1",
+    "element-ui": "^2.15.13",
+    "vue": "^2.7.14",
+    "vue-router": "3"
+  },
+  "devDependencies": {
+    "@efox/emp": "^2.7.0",
+    "@efox/eslint-config-vue": "^2.0.1",
+    "@efox/plugin-vue-2": "^1.2.3"
+  }
+}
